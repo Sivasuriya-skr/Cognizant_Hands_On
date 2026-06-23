@@ -1,4 +1,0 @@
-# Created at 2026-06-22T14:54:33.061
-Boot Manifest-JAR contains absolute paths in classpath 'D:\CTS_HANDS_ON\week_1\Module-4_Junit_and_mockito\2. Mockito_Basic Testing\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-
