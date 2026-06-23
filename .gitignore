@@ -1,0 +1,3 @@
+# Ignore compiled Java class files
+*.class
+.Module-4_Junit_and_Programming/
